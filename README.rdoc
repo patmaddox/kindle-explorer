@@ -2,6 +2,13 @@
 
 I'm working on a simple app to extract notes and highlights from my Kindle.  This is it.
 
+== TODO
+
+* Make it actually connect to kindle and parse data
+* Export documents to hard drive
+* Automatically detect kindle plugged in / remove
+* Tests :)
+
 == License
 
 Kindle Explorer is released under the MIT license.
