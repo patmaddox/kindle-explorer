@@ -1,0 +1,7 @@
+== Kindle Explorer
+
+I'm working on a simple app to extract notes and highlights from my Kindle.  This is it.
+
+== License
+
+Kindle Explorer is released under the MIT license.

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Kindle Explorer' target in the 'Kindle Explorer' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
